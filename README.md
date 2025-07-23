@@ -50,25 +50,3 @@
   </footer>
 </body>
 </html>
-#skills {
-  padding: 40px;
-  background-color: #f2f2f2;
-  text-align: center;
-}
-
-#skills h2 {
-  font-size: 28px;
-  color: #333;
-  margin-bottom: 20px;
-}
-
-.skills-list {
-  list-style-type: none;
-  padding: 0;
-  font-size: 18px;
-}
-
-.skills-list li {
-  margin: 10px 0;
-  color: #555;
-}
